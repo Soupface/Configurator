@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AttachAPN</key>
+			<dict/>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.9604C673-145A-41AF-BAC7-7EEDD4694CE6</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>9604C673-145A-41AF-BAC7-7EEDD4694CE6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures DNS proxy network extension</string>
+			<key>PayloadDisplayName</key>
+			<string>DNS Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsProxy.managed.49013E40-49D7-47DE-A8B0-D25BD175F0F0</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsProxy.managed</string>
+			<key>PayloadUUID</key>
+			<string>49013E40-49D7-47DE-A8B0-D25BD175F0F0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>EmailDomains</key>
+			<array>
+				<string>example.com</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Managed Domains</string>
+			<key>PayloadDisplayName</key>
+			<string>Domains</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.domains.EF1B5EB7-D482-4D41-9B7F-17215A82287B</string>
+			<key>PayloadType</key>
+			<string>com.apple.domains</string>
+			<key>PayloadUUID</key>
+			<string>EF1B5EB7-D482-4D41-9B7F-17215A82287B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SafariPasswordAutoFillDomains</key>
+			<array>
+				<string>example.com</string>
+			</array>
+			<key>WebDomains</key>
+			<array>
+				<string>example.com</string>
+			</array>
+		</dict>
+		<dict>
+			<key>AccountDescription</key>
+			<string>My Server Account</string>
+			<key>ConfiguredAccounts</key>
+			<array>
+				<dict>
+					<key>Type</key>
+					<string>com.apple.osxserver.documents</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures a macOS Server account</string>
+			<key>PayloadDisplayName</key>
+			<string>Server Account</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.osxserver.account.EC201435-1DC3-45A9-B948-49F688EC02AB</string>
+			<key>PayloadType</key>
+			<string>com.apple.osxserver.account</string>
+			<key>PayloadUUID</key>
+			<string>EC201435-1DC3-45A9-B948-49F688EC02AB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.EC3E70F3-6DC4-4DFD-BC2A-EA3A6ACE96EA</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>EC3E70F3-6DC4-4DFD-BC2A-EA3A6ACE96EA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPACFallbackAllowed</key>
+			<true/>
+			<key>ProxyPACURL</key>
+			<string>Safari.com</string>
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled</string>
+	<key>PayloadIdentifier</key>
+	<string>RICHARDs-MacBook-Pro.C3740596-CBBF-4027-A7BB-B84F2FAEECD1</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>241D41C8-321A-4015-B8EB-176CB097702D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
